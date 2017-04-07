@@ -1,0 +1,50 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC|Gloria+Hallelujah");
+/* CSS Document */
+
+.background{
+	background-image: url("../img/pink dust.png");
+	background-repeat:repeat-x;
+	width: 1280px;
+	height: 800px;	
+	position: relative;
+}
+.title {
+	background-color: #D25F83;
+	padding: 10px;
+	font-family: "Amatic SC", cursive;
+	text-align: center;
+	color:#3e3c3d;
+	position: relative
+	
+		
+}
+.subtitle {
+	padding: 10px;
+	font-family: "Amatic SC", cursive;
+	font-size: 20px;
+	text-align: center;
+	color:#FFFFFF;
+	position: relative
+	
+		
+}
+
+.lista_principal {
+	list-style: none;
+	text-align: center;
+	font-family: "Amatic SC", cursive;
+	position: relative
+}
+
+.lista_principal a {
+	color: hotpink;
+	font-family: "Amatic SC", cursive;
+	position: relative
+}
+
+.lista_principal a:hover {
+	color: white;
+	font-family: "Amatic SC", cursive;
+	position: relative
+}

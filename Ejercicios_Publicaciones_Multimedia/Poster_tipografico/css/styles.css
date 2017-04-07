@@ -1,0 +1,78 @@
+@charset "UTF-8";
+/* CSS Document */
+.container{
+	
+	align-content: center;
+}
+
+.bg{
+	background-color: #bef0bd;
+	background-position: center;
+	width: 500px;
+	height: 750px;
+	align-content: center;
+	margin: 0;
+	
+}
+.title {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 28px;
+	color: #ff1c75;
+	text-align: center;
+	padding: 20px;
+	border-collapse: inherit;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 0;
+	
+}
+
+.acento {
+	color: #0012df;
+	text-decoration:underline;
+	
+}
+.acento2 {
+	
+	color: #0012df;
+	
+}
+.padre {
+	
+	width: 500px;
+	height: 506px;
+	position: relative;
+	margin-bottom: 100px;
+}
+.hijo {
+	border: inherit;
+	position: absolute;
+	top:0;
+	left:0;
+		
+}
+.footer {
+	
+	background-color: #ff1e76;
+	height: auto;
+	margin: 0;
+	
+}
+.footertxt {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 32px;
+	color: #bef0bd;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 0;
+	
+}
+
+.footertxt2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 22px;
+	color: #bef0bd;
+	text-align: center;
+	text-decoration: underline;
+}
+

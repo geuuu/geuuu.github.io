@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bgint {
+background: #e27400;
+width:400px;
+height:600px;
+margin: 30px auto 0 auto;
+padding: 40px;
+	align-content: center;
+
+}
+
+
+.morado {
+	background: #562845;
+	height: 400px;
+	margin-bottom: 10px;
+	
+	
+}
+
+.amarillo {
+	background: #f9d889;
+	height: 220px;
+    
+	
+	
+	
+}
